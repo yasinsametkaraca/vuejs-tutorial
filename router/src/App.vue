@@ -1,13 +1,19 @@
 <template>
+<!--
   <header-comp></header-comp>
-  <router-view/>
+-->
+  <router-view name="header-top"></router-view>
+  <router-view></router-view>
+  <router-view name="header-bottom"></router-view>
 </template>
 <script>
+/*
 import HeaderComp from "@/components/HeaderComp";
+*/
 
 export default {
   components: {
-    HeaderComp
+    /*HeaderComp*/
   },
 }
 </script>
