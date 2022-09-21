@@ -79,7 +79,7 @@ export default {
     })
 
     return {
-      title, show, toggleDescription, searchText, isTyping, titleLength, oddorEven
+     counter, title, show, toggleDescription, searchText, isTyping, titleLength, oddorEven
     }
   }
 }
