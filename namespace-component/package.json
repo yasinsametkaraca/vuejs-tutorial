@@ -1,5 +1,5 @@
 {
-  "name": "invoice-app-with-setupscript",
+  "name": "namespace-component",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,9 +13,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",
-    "autoprefixer": "^10.4.11",
-    "postcss": "^8.4.16",
-    "tailwindcss": "^3.1.8",
     "vite": "^3.1.0"
   }
 }
